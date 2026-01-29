@@ -33,7 +33,7 @@ This project showcases a clean personal profile card with social media links, ho
 
 ## 📂 Project Structure
 profile-card-ui/
-├── index.html
+├── profilecard.html
 ├── profilecard.css
 ├── port1.jpg
 ├── screenshots/
@@ -48,5 +48,5 @@ profile-card-ui/
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/profile-card-ui.git
-2. Open index.html in your browser
+2. Open profilecard.html in your browser
 3. Customize the content, image, and links as needed
