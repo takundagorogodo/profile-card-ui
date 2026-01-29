@@ -47,6 +47,7 @@ profile-card-ui/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/profile-card-ui.git
+git clone https://github.com/takundagorogodo/profile-card-ui.git
+
 2. Open profilecard.html in your browser
 3. Customize the content, image, and links as needed
