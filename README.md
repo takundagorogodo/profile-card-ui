@@ -51,3 +51,18 @@ git clone https://github.com/takundagorogodo/profile-card-ui.git
 
 2. Open profilecard.html in your browser
 3. Customize the content, image, and links as needed
+
+   🎯 Use Cases
+
+Personal portfolio
+
+Profile section for websites
+
+UI/UX practice project
+
+Frontend design showcase
+
+📌 Author
+
+Takunda Gorogodo
+Web Developer & Designer
