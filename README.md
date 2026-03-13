@@ -37,7 +37,7 @@ profile-card-ui/
 ---
 ## 🚀 How to Use
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/takundagorogodo/profile-card-ui.git
 ```
 2. Open profilecard.html in your browser
@@ -51,8 +51,9 @@ Profile section for websites
 UI/UX practice project
 
 Frontend design showcase
-
+----
 📌 Author
 
 Takunda Gorogodo
 Web Developer & Designer
+---
