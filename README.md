@@ -50,10 +50,9 @@ Profile section for websites
 
 UI/UX practice project
 
-Frontend design showcase
-----
-📌 Author
+---
+##📌 Author
+---
 
 Takunda Gorogodo
 Web Developer & Designer
----
