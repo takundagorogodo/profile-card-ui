@@ -43,15 +43,14 @@ profile-card-ui/
 2. Open profilecard.html in your browser
 3. Customize the content, image, and links as needed
 
-   🎯 Use Cases
-
+  ## 🎯 Use Cases
 Personal portfolio
 Profile section for websites
 
 UI/UX practice project
 
 ---
-##📌 Author
+📌 Author
 ---
 
 Takunda Gorogodo
